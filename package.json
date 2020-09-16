@@ -1,0 +1,26 @@
+{
+	"name": "request-header-parser",
+	"author": "Eppu Peltonen",
+	"version": "0.0.1",
+	"description": "HTTP Request header parser which tells information about the client.",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eppu-peltonen/request-header-parser.git"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
