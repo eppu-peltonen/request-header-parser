@@ -1,5 +1,7 @@
 # Request Header Parser Microservice
 
+Tells information about the client.
+
 ## How to run
 
 ```npm install```
