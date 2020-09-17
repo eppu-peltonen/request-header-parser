@@ -8,7 +8,7 @@ Tells information about the client.
 
 ```npm start```
 
-#### Example usage:
+#### Usage:
 * ```[base_url]/api/whoami```
 
 #### Example output:
